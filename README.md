@@ -1,9 +1,16 @@
 # Experiment--05-Implementation-of-flipflops-using-verilog
 
 #### Lathika Sunder, 212221230054
-### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
+
+### AIM:
+To implement all the flipflops using verilog and validating their functionality using their functional tables
+
+### HARDWARE REQUIRED:  
+– PC, Cyclone II , USB flasher
+
+### SOFTWARE REQUIRED:   
+Quartus prime
+
 ### THEORY 
 SR Flip-Flop
 SR flip-flop operates with only positive clock transitions or negative clock transitions. Whereas, SR latch operates with enable signal. The circuit diagram of SR flip-flop is shown in the following figure.
@@ -115,11 +122,11 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 
 ~~~
-/*
+
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: Aavula Tharun.
-RegisterNumber:212221240003  
-*/
+Developed by: Lathika Sunder
+RegisterNumber:212221230054
+
 ~~~ 
 
 # SR Flip-flop
